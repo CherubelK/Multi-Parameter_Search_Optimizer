@@ -1,6 +1,6 @@
 # Multi-Parameter_Search_Optimizer
 ## Project completed for development of 2050 Materials app & website www.2050-materials.com
-contact info@2050-materials.com or nicodemos@2050-materials.com for redacted information
+contact info@2050-materials.com or nicodemos@2050-materials.com for redacted information or datasets used
 
 ### Utilizes Pytorch & hugging Face's Transformers library, pretrained on 'distilbert-base-uncased'
 
